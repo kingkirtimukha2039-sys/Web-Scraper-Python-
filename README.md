@@ -21,4 +21,4 @@ python web_scraper.py
 - Requests library
 
 ## Author
-Your Name | 18yo Developer
+Your Kush | 18yo Developer
